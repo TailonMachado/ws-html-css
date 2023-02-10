@@ -1,2 +1,31 @@
 @charset "UTF-8";
 
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: black;
+    min-height: 160px;
+    padding: 25px;
+    
+
+}
+header h1{
+    text-align: center;
+    color: white;
+}
+header p{
+    text-align: center;
+    color: white;
+}
+header a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+.normal{
+    background-color: white;
+}
